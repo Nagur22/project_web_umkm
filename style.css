@@ -557,11 +557,10 @@ body{
 }
 
 .produk-card h3{
-  margin:25px 0;
+  margin:25px 1px;
   font-size:28px;
   color:#2b2118;
 }
-
 
 
 /* BUTTON */
